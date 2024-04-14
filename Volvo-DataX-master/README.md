@@ -1,8 +1,6 @@
 # Unified Framework for Pedestrian Detection & Intention Classification 
 
-Collaborative research project between Volvo Cars USA & Sweden, UC Berkeley, and Chalmers University.
 
-Team: [Rajarathnam Balakrishnan](https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135/), [Francesco Piccoli](https://www.linkedin.com/in/francesco-piccoli/), [Maria Jesus Perez](https://www.linkedin.com/in/maria-jesus-perez-brown/), [Moraldeepsingh Sachdeo](https://www.linkedin.com/in/moraldeepsingh/), [Carlos Nuñez](https://www.linkedin.com/in/carlosnunezcardenas/), [Matthew Tang](https://www.linkedin.com/in/matthewgtang/)
 
 <p align='center'>
     <img src="./images/modelC2.gif" width="400px"/>
